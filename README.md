@@ -1,1 +1,1 @@
-# MRI_lesion_segmentation
+# lesseg_unet
